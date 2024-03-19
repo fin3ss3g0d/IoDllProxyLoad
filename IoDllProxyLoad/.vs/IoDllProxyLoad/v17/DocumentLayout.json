@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Github\\IoDllProxyLoad\\IoDllProxyLoad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{526615FC-0837-4DC9-BE5B-EC2B3683D74F}|IoDllProxyLoad.vcxproj|Y:\\Github\\IoDllProxyLoad\\IoDllProxyLoad\\Assembly.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{526615FC-0837-4DC9-BE5B-EC2B3683D74F}|IoDllProxyLoad.vcxproj|solutionrelative:Assembly.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526615FC-0837-4DC9-BE5B-EC2B3683D74F}|IoDllProxyLoad.vcxproj|Y:\\Github\\IoDllProxyLoad\\IoDllProxyLoad\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{526615FC-0837-4DC9-BE5B-EC2B3683D74F}|IoDllProxyLoad.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assembly.asm",
+              "DocumentMoniker": "Y:\\Github\\IoDllProxyLoad\\IoDllProxyLoad\\Assembly.asm",
+              "RelativeDocumentMoniker": "Assembly.asm",
+              "ToolTip": "Y:\\Github\\IoDllProxyLoad\\IoDllProxyLoad\\Assembly.asm",
+              "RelativeToolTip": "Assembly.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-18T19:47:26.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "Y:\\Github\\IoDllProxyLoad\\IoDllProxyLoad\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "Y:\\Github\\IoDllProxyLoad\\IoDllProxyLoad\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T19:46:30.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

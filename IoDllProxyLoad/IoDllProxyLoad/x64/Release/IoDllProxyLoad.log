@@ -1,0 +1,8 @@
+﻿  Assembling Assembly.asm...
+  Main.cpp
+Y:\Github\IoDllProxyLoad\IoDllProxyLoad\Main.cpp(14,2): warning C4091: 'typedef ': ignored on left of 'LOAD_CONTEXT' when no variable is declared
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  IoDllProxyLoad.vcxproj -> Y:\Github\IoDllProxyLoad\IoDllProxyLoad\x64\Release\IoDllProxyLoad.exe
